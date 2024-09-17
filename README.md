@@ -1,34 +1,44 @@
 # Hotel-Booking-cancellation-Python-project
 ## Business Problem
+In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels' primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
+
+The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this project.
 
 
 
-### Good Loan v Bad Loan KPI’s
+## Assumptions 
+1. No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used. <br />
 
-#### Good Loan:
-Good Loan Application Percentage <br />
-Good Loan Applications <br />
-Good Loan Funded Amount <br />
-Good Loan Total Received Amount <br />
+2. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner. <br />
 
-#### Bad Loan: 
-Bad Loan Application Percentage <br />
-Bad Loan Applications <br />
-Bad Loan Funded Amount <br />
-Bad Loan Total Received Amount <br />
+3. There are no unanticipated negatives to the hotel employing any advised technique. <br />
 
-### Loan Status Grid View
-In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
+4. The hotels are not currently using any of the suggested solutions. <br />
 
-## DASHBOARD 2: OVERVIEW
-### CHARTS
-(1) Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities. <br />
-(2) Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities. <br />
-(3) Loan Term Analysis (Donut Chart): To allow the client to understand the distribution of loans across various term lengths.<br />
-(4) Employee Length Analysis (Bar Chart): How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.<br />
-(5) Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.<br />
-(6) Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
-#### Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received
+5. The biggest factor affecting the effectiveness of earning income is booking cancellations. <br />
 
-## DASHBOARD 3: DETAILS
-### GRID
+6. Cancellations result in vacant rooms for the booked length of time. <br />
+
+7. Clients make hotel reservations the same year they make cancellations. <br />
+
+
+
+
+## Research Questions
+ 1. What are the variables that affect hotel reservation cancellations?
+
+2. How can we make hotel reservations cancellations better?
+
+3. How will hotels be assisted in making pricing and promotional decisions?
+
+## Suggestions
+1. Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the consumers.
+
+2. As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort hotel than the city hotels. So the hotels should provide a reasonable discount on the room prices on weekends or on holidays.
+
+3. In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
+
+4. They can also increase the quality of their hotels and their services mainly in Portugal to reduce the cancellation rate.
+
+
+#
